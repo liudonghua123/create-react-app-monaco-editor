@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "monaco-editor": "^0.15.6",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-monaco-editor": "^0.22.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-app-rewired": "^1.6.2"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -25,7 +25,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "monaco-editor-webpack-plugin": "^1.7.0",
-    "react-app-rewired": "^1.6.2"
+    "monaco-editor-webpack-plugin": "^1.7.0"
   }
 }
