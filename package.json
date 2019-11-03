@@ -1,13 +1,15 @@
 {
   "name": "create-react-app-monaco-editor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-monaco-editor": "^0.22.0",
-    "react-scripts": "2.1.1",
-    "react-app-rewired": "^1.6.2"
+    "monaco-editor": "^0.18.1",
+    "react": "^16.11.0",
+    "react-app-rewired": "^2.1.4",
+    "react-dom": "^16.11.0",
+    "react-monaco-editor": "^0.32.1",
+    "react-scripts": "^3.2.0",
+    "typescript": "^3.6.4"
   },
   "scripts": {
     "start": "react-app-rewired start",
